@@ -1,0 +1,3 @@
+﻿  cards game.cpp
+C:\Users\hp\Desktop\OOP Project\Mini projects\Mini projects\cards game.cpp(33,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Mini projects.vcxproj -> C:\Users\hp\Desktop\OOP Project\Mini projects\x64\Debug\Mini projects.exe
