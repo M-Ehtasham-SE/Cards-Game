@@ -21,7 +21,7 @@ public:
 		}
 		else
 		{
-			return 11;//ace
+			return 11;//aced
 		}
 	}
 
