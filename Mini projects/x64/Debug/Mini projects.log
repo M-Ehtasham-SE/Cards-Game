@@ -1,3 +1,4 @@
 ﻿  cards game.cpp
-C:\Users\hp\Desktop\OOP Project\Mini projects\Mini projects\cards game.cpp(33,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Mini projects.vcxproj -> C:\Users\hp\Desktop\OOP Project\Mini projects\x64\Debug\Mini projects.exe
+C:\Users\hp\Desktop\OOP Project\Hello\Mini projects\cards game.cpp(33,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : C:\Users\hp\Desktop\OOP Project\Hello\x64\Debug\Mini projects.exe not found or not built by the last incremental link; performing full link
+  Mini projects.vcxproj -> C:\Users\hp\Desktop\OOP Project\Hello\x64\Debug\Mini projects.exe
